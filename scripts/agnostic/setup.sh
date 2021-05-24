@@ -8,7 +8,6 @@ setup() {
     create_home_directories.sh
     install_or_update_node_modules.sh
     install_or_update_reason_language_server.sh
-    install_or_update_circleci_cli.sh
     install_or_update_cheatsh.sh
     install_or_update_zinit.sh
     setup_tmux.sh
